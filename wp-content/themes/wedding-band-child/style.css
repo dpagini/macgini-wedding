@@ -1,0 +1,8 @@
+#masthead {background: rgba(119,175,203,.7);}
+.section-2, .site-footer {background-color: #77afcb;}
+.main-navigation li:hover>a, .main-navigation li.focus>a, .main-navigation .current-menu-item a {color: #77afcb;}
+.section-2, .section-2 .widget .post .entry-title a, .site-footer, .site-footer .widget-title, .site-footer .widget .post .entry-title a, .site-footer .widget.widget_search input[type="search"], .site-footer input::placeholder, .site-footer a {color: #fff;}
+.site-footer .widget.widget_search form, .site-footer .footer-b {border-color: #fff;}
+.section-1 .read-more:hover, .slider .banner-text .text .view-more:hover {background-color: #77afcb;border: 2px solid #fff;}
+.button {display: inline-block;border: 2px solid #fff;background-color: #77afcb;color: #fff;font-weight: 700;font-size: 17px;line-height: 30px;text-transform: uppercase;padding: 7px 20px;text-decoration: none;transition: all ease .3s;}
+.button:hover {background-color: rgba(119,175,203,.7);}
